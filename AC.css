@@ -4,8 +4,8 @@
     font-family: 'Courier New', Courier, monospace;
 }
 html{
-    background: rgb(71,143,235);
-    background: linear-gradient(90deg, rgba(71,143,235,1) 0%, rgba(11,163,154,1) 40%, rgba(0,212,255,1) 100%);
+    background: #478feb;
+    /* background: linear-gradient(90deg, rgba(71,143,235,1) 0%, rgba(11,163,154,1) 40%, rgba(0,212,255,1) 100%); */
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -38,7 +38,7 @@ i{
     width: 10rem;
 }
 .namesColumn .nameColumn {
-    border-bottom: 2px solid #E61926;
+    border-bottom: 2px solid #d8279e;
     width: 10rem;
 }
 .namesColumn .nameColumn p{
@@ -56,10 +56,10 @@ i{
 .activitiesRow .activityRow {
     padding: .2rem 0;
     width: 10rem;
-    border-right: 2px solid #E61926;
+    border-right: 2px solid #d8279e;
 }
 .activitiesRow .one .activityRow {
-    border-bottom: 2px solid #E61926;
+    border-bottom: 2px solid #d8279e;
 }
 .Name{
     font-weight: 900;
@@ -70,6 +70,6 @@ i{
 }
 .two {
     display: flex;
-    border-bottom: 5px solid #E61926;
+    border-bottom: 5px solid #d8279e;
     width: 1280px;
 }
